@@ -1,6 +1,6 @@
 """
 Stock Portfolio Simulator
-Author: Your Name
+Author: Ritisha Bagchi 
 Description:
     A simple stock portfolio simulator that:
     - Takes stock input from the user
@@ -49,3 +49,4 @@ print("\n--- Overall Performance ---")
 print(f"Total Investment: {total_investment}")
 print(f"Current Value: {total_value}")
 print(f"Total Profit/Loss: {total_pnl}")
+
