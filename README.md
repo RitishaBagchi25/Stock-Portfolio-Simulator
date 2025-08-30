@@ -19,5 +19,4 @@ This is my first Python + FinTech project as part of my learning journey.
 1. Install Python (3.x)  
 2. Clone this repo or download the `.py` file  
 3. Run in terminal / VS Code:  
-   ```bash
-   python stock_portfolio_simulator.py
+   
